@@ -1,3 +1,4 @@
+import requests
 from pyrogram import Client as Bot
 from pyrogram import idle
 from callsmusic import run
