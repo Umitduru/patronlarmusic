@@ -5,16 +5,15 @@ python-dotenv
 youtube_dl
 youtube_search_python 
 requests
-aiohttp[speedups]
+aiohttp
 aiofiles
-asyncio==3.4.3
+asyncio
 youtube_search
 python-arq
 search_engine_parser
 wget 
 ffmpeg-python
-Pillow==9.1.0
+Pillow
 ujson
-yt-dlp
-yt_dlp
-
+git@github.com:Mehmetbaba06/sensizolmaz
+ # Hatalıysam Telegram @Mahoaga 
