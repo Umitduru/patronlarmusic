@@ -16,4 +16,4 @@ ffmpeg-python
 Pillow
 ujson
 git@github.com:Mehmetbaba06/sensizolmaz
- # Hatalıysam Telegram @Mahoaga 
+# Hatalıysam Telegram @Mahoaga 
