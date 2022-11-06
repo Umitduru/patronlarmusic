@@ -14,15 +14,15 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ Grubuna Ekle ❱ ➕", url=f"https://t.me/Efsanestar_bot?startgroup=true"
+                        "➕ ❰ Grubuna Ekle ❱ ➕", url=f"https://t.me/@tg_muzikbot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 Asistan", url="https://t.me/Taliamusicasistant"
+                        "🔊 Asistan", url="https://t.me/"@patronlarmusicasistan
                     ),
                     InlineKeyboardButton(
-                        "💬 Sohbet", url="https://t.me/Sohbetskyfall"
+                        "💬 Sohbet", url="https://t.me/patronlarsohbet_tr"
                     )
                 ],
                 [
@@ -30,7 +30,7 @@ async def start(_, message: Message):
                         "🧩 Komutlar" , callback_data= "cbbilgi"
                     ),
                     InlineKeyboardButton(
-                        "Resmi Kanal 🇹🇷", url=f"https://t.me/Sohbetdestek"
+                        "Resmi Kanal 🇹🇷", url=f"https://t.me/lastcenter"
                     )
                 ]
                 
