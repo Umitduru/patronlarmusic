@@ -14,6 +14,8 @@ search_engine_parser
 wget 
 ffmpeg-python
 Pillow
-ujson
-git+https://github.com/umitduru/sensizolmaz
+ujso
+git+https://github.com/umitduru/
+patronlarmusic
+
 # Hatalıysam Telegram @patronlarsohbet_tr
