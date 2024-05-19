@@ -1,6 +1,6 @@
 {
-  "name": "patronlar music",
-  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by Mehmetbaba55.",
+  "name": "Büşra müzik",
+  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by sessiztaggersahip.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/umitduru/patronlarmusic",
   "stack": "container",
