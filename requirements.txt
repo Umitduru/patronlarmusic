@@ -16,6 +16,6 @@ ffmpeg-python
 Pillow
 ujso
 git+https://github.com/umitduru/
-patronlarmusic
+Busramuzik
 
 # Hatalıysam Telegram @patronlarsohbet_tr
