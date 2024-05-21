@@ -2,12 +2,12 @@
   "name": "Büşra müzik",
   "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by sessiztaggersahip.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/umitduru/patronlarmusic",
+  "repository": "https://github.com/umitduru/Busramuzik",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram oturum dizesi (Replit.com)",
-      "required": true
+      "required": false
     },
     "BOT_TOKEN": {
       "description": "Bir bot belirteci @botfather ile alınız",
