@@ -1,7 +1,7 @@
 {
   "name": "Büşra müzik",
-  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by sessiztaggersahip.",
-  "keywords": ["music", "voicechat", "telegram"],
+  "description": "T Grubunuzda  Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by sessiztaggersahip.",
+  "keywords": ["muzik", "Busra", "telegram"],
   "repository": "https://github.com/umitduru/Busramuzik",
   "stack": "container",
   "env": {
